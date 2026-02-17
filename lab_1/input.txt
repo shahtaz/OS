@@ -1,0 +1,16 @@
+for first two algo --> input
+4
+21 3 6 2
+
+prio --> input
+4
+21 2
+3 1
+6 4
+2 3
+
+
+round robin --> input
+4
+21 3 6 2
+5
